@@ -1,2 +1,2 @@
-# convert_date-time_to_arabic_digits-characters
-python: convert date &amp; time to  arabic digits &amp; characters
+# convert_date-time_to_hindi_digits_-_arabic_characters
+python: convert date &amp; time to  hindi digits &amp; arabic characters
